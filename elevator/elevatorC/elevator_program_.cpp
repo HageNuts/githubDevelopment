@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-//#include <windows.h>
+//#include <windows.h>//->windows環境下のみでubuntuだともうちょっと設定しなきゃいけない(?)
 #include <cmath>
 #include <chrono>
 #include <thread>
